@@ -42,5 +42,4 @@ portfolio using StatsBomb open data, and completing an
 
 ---
 
-*Open to opportunities in football analytics, sports BI, and data roles 
-in Germany, Switzerland, or Denmark.*
+*Open to opportunities in football analytics, sports BI, and data roles.*
