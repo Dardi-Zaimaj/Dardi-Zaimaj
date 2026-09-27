@@ -5,7 +5,7 @@ Football analytics & BI analyst based in Copenhagen, Denmark.
 I combine a background in **business intelligence** (Power BI, SQL, dashboards) 
 with a passion for football data. Currently building my football analytics 
 portfolio using StatsBomb open data, and completing an 
-**MSc in Sports Data Analytics**.
+**MSc in Big Data & Analytics in Football**.
 
 ---
 
